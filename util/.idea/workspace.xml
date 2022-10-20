@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8eb372d9-2968-4cbd-90f5-f1dcb2e9defa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../price-stock-consumer/src/main/java/com/syphan/pricestockconsumer/consumer/StockConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/syphan/constants/RabbitMqConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/syphan/dto/PriceDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/syphan/dto/StockDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/src/main/java/com/syphan/pricestock/PriceStockApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/src/main/java/com/syphan/pricestock/connection/RabbitMqConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/src/main/java/com/syphan/pricestock/constants/RabbitMqConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/src/main/java/com/syphan/pricestock/controller/PriceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/src/main/java/com/syphan/pricestock/controller/StockController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/src/main/java/com/syphan/pricestock/dto/PriceDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/src/main/java/com/syphan/pricestock/dto/StockDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../price-stock/src/main/resources/application.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GPACZ2UzAxu6VC72zEaSfMoiFV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/gabrielsyphan/Documents/projects/price-stock/util"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8eb372d9-2968-4cbd-90f5-f1dcb2e9defa" name="Changes" comment="" />
+      <created>1666279719807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666279719807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
