@@ -1,18 +1,18 @@
 package com.syphan.pricestockconsumer.consumer;
 
 import com.syphan.constants.RabbitMqConstants;
-import com.syphan.dto.StockDto;
+import com.syphan.dto.PriceDto;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
 
 @Component
-public class StockConsumer {
+public class PriceConsumer {
 
-    @RabbitListener(queues = RabbitMqConstants.QUEUE_STOCK)
-    private void stockConsumer(StockDto stockDto) {
+    @RabbitListener(queues = RabbitMqConstants.QUEUE_PRICE)
+    private void priceConsumer(PriceDto priceDto) {
         System.out.println("--------------------------------");
-        System.out.println("StockConsumer codAmount: " + stockDto.codAmount);
-        System.out.println("StockConsumer codProduct: " + stockDto.codProduct);
+        System.out.println("PriceConsumer price: " + priceDto.price);
+        System.out.println("PriceConsumer codProduct: " + priceDto.codProduct);
         System.out.println("--------------------------------");
     }
 }
